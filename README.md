@@ -1,6 +1,4 @@
-Here is a professional **open-source README.md** for **Build My City**. It is written like a real GitHub project documentation file.
 
-```markdown
 # 🏙️ Build My City
 
 ![Build My City Banner](docs/images/banner.png)
@@ -582,7 +580,4 @@ Interested in contributing?
 
 Join the project and help build smarter communities.
 
-```
 
-This README positions it as an **enterprise-grade open-source civic-tech project**, suitable for GitHub, portfolio review, and even pitching to municipalities or NGOs.
-```
